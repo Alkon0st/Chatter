@@ -1,4 +1,4 @@
-# chat-app
+# Chatter
 - Made by: Adriane San Gaspar
 - Contactme: AdrianeSanGaspar@proton.me
 
@@ -9,4 +9,5 @@
 - socket.io
 - uuid
 - express
+
 ## instructions to run
